@@ -4,5 +4,8 @@ Churn analysis is the process of studying why customers stop using a product or
 
 #### COLLECTING AND PREPARING DATA
 #### DATA CLEANING USING EXCEL
-#### DATA MANIPULATION
+#### DATA MANIPULATION : Used SQL queries to manipulate data to uncover insights into churn rate and its contributing factors.
+#### KEY FINDINGS FROM THE ANALYSIS
+- A 52.6% churn rate is very high and indicates a serious problem for most businesses.
+
 
